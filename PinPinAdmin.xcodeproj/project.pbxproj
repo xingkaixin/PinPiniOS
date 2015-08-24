@@ -77,11 +77,8 @@
 		0A55F4F61B8B6F940030A2C7 /* PinPinAdmin */ = {
 			isa = PBXGroup;
 			children = (
-				0A55F4F91B8B6F940030A2C7 /* AppDelegate.swift */,
 				0A55F4FB1B8B6F940030A2C7 /* ViewController.swift */,
 				0A55F4FD1B8B6F940030A2C7 /* Main.storyboard */,
-				0A55F5001B8B6F940030A2C7 /* Images.xcassets */,
-				0A55F5021B8B6F940030A2C7 /* LaunchScreen.xib */,
 				0A55F4F71B8B6F940030A2C7 /* Supporting Files */,
 			);
 			path = PinPinAdmin;
@@ -90,6 +87,9 @@
 		0A55F4F71B8B6F940030A2C7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0A55F5021B8B6F940030A2C7 /* LaunchScreen.xib */,
+				0A55F5001B8B6F940030A2C7 /* Images.xcassets */,
+				0A55F4F91B8B6F940030A2C7 /* AppDelegate.swift */,
 				0A55F4F81B8B6F940030A2C7 /* Info.plist */,
 			);
 			name = "Supporting Files";
